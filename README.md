@@ -1,4 +1,4 @@
-# 🚀 Advanced 3D Interactive GitHub README.md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=320&section=header&text=Dheeraj%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Building%20Futuristic%20Systems&descAlignY=58&descSize=20" width="100%" />
@@ -212,11 +212,47 @@ philosophy:
 
 ---
 
-# 📈 3D CONTRIBUTION GRAPH
+# 🌍 3D CONTRIBUTION GLOBE
 
 <div align="center">
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj5604&theme=tokyonight" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj5604&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dheeraj5604&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+# 🛰️ AI COMMAND CENTER
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj5604&custom_title=AI%20SYSTEM%20ACTIVITY%20GRAPH&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# ⚡ NEURAL NETWORK STATUS
+
+<div align="center">
+
+```mermaid
+graph TD;
+    A[User Input] --> B[AI Processing]
+    B --> C[LLM Systems]
+    C --> D[Automation Engines]
+    D --> E[Modern UI Experience]
+    E --> F[Futuristic Products]
+```
 
 </div>
 
@@ -247,6 +283,30 @@ philosophy:
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/DHEERAJ5604?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
+
+---
+
+# 🧠 AI ENGINE CORE
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="70%" />
+
+</div>
+
+---
+
+# 🔮 FUTURISTIC SYSTEM METRICS
+
+<div align="center">
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Dheeraj5604&data=followers,repositories,stars,commits&theme=dark" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,cpp,html,css,mongodb,react,nodejs,nextjs&theme=darkmode" width="95%" />
 
 </div>
 
