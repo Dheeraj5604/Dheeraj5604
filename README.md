@@ -1,313 +1,306 @@
+# 🚀 Advanced 3D Interactive GitHub README
+
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Dheeraj%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Futuristic%20Web%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=320&section=header&text=Dheeraj%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Building%20Futuristic%20Systems&descAlignY=58&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Developer;Full+Stack+Engineer;React+%2B+Node.js+Developer;Building+AI+Powered+Applications;OpenAI+%7C+LLMs+%7C+Automation;Modern+UI%2FUX+Creator;DSA+%26+System+Design+Learner)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dheeraj5604&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=AI+Developer+%F0%9F%A4%96;Building+Futuristic+Web+Applications+%F0%9F%9A%80;LLMs+%7C+AI+Agents+%7C+Automation+%7C+Full+Stack;React+%2B+Next.js+%2B+Node.js+%2B+AI+Systems" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dheeraj5604&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Dheeraj5604?style=for-the-badge&color=00F7FF" />
+<img src="https://img.shields.io/github/stars/Dheeraj5604?style=for-the-badge&color=7C3AED" />
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 🌌 SYSTEM PROFILE
 
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJtYWV3Z2xkNmF4aXV1ZTZmY2p4d2lyOGJtbTRncnYwNTRlY2c0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 ```yaml
 name: Dheeraj Kumar
-located_in: India
-current_focus:
+role: AI Engineer + Full Stack Developer
+university: VIT Vellore
+specialization:
   [
-    "AI Powered Web Applications",
-    "Advanced Full Stack Systems",
-    "LLM Integrations",
+    "AI Systems",
+    "LLM Applications",
+    "Full Stack Platforms",
     "Modern UI/UX",
-    "Automation & AI Agents",
-    "System Design",
-  ]
-
-education:
-  ["VIT Vellore"]
-
-fields_of_interests:
-  [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Web Development",
-    "AI Automation",
-    "Prompt Engineering",
-    "Scalable Architectures",
+    "AI Agents",
+    "Automation",
   ]
 
 currently_building:
   [
+    "J.A.R.V.I.S AI Assistant",
     "Review Sense",
     "AI Trading Bot",
-    "J.A.R.V.I.S AI Assistant",
     "AI SaaS Platforms",
   ]
+
+philosophy:
+  "Build futuristic systems that feel alive"
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dheeru-kumar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/DHEERAJ5604/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://swordigo-portfolio-quest.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🚀 Tech Arsenal
+# ⚡ TECH UNIVERSE
 
 <div align="center">
 
-## 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgresql,firebase,python,tensorflow,pytorch,docker,git,github,vscode,figma,vercel" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,redux,vite" />
+<br/><br/>
 
----
-
-## ⚙️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql" />
-
----
-
-## 🤖 AI / ML / LLM Stack
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLMs-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-0EA5E9?style=for-the-badge"/>
-
----
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,docker" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/AI_Agents-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-06B6D4?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 Current Projects
+# 🧠 AI PROJECT MATRIX
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🤖 J.A.R.V.I.S AI Assistant
 
-> Futuristic AI assistant inspired by Iron Man's JARVIS
-
 ### Features
-
 - AI Chat System
-- Multi-Model AI Integration
 - Voice Interaction
-- Modern Cyberpunk Interface
-- AI Prompt Pipeline
-- Smart Context Management
-- Real-Time UI Experience
+- Multi-Model AI Integration
+- Futuristic Cyberpunk UI
+- Smart Prompt Pipeline
+- Real-Time AI Experience
 
-### Tech
+### Stack
+`React` `TailwindCSS` `LLMs` `Groq API`
 
-`React` `TailwindCSS` `Groq API` `LLMs`
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+</td>
+<td width="50%">
 
 ## 📈 Personalized Trading Bot
 
-> AI-driven personalized market analysis & trading automation system
-
 ### Features
-
-- AI-based Market Insights
-- Personalized Trading Strategies
-- Real-Time Data Processing
-- Smart Decision Support
+- AI Market Insights
+- Personalized Trading Signals
 - Automation Pipelines
+- Smart Analysis Engine
+- Real-Time Data Processing
 
-### Tech
+### Stack
+`Python` `AI Models` `Automation`
 
-`Python` `AI Models` `APIs` `Automation`
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## ⭐ Review Sense
 
-> AI-powered review intelligence platform
-
 ### Features
-
-- Sentiment Analysis
-- AI Review Summarization
+- AI Sentiment Analysis
+- Review Summarization
 - Keyword Extraction
-- Smart Recommendation Engine
 - Analytics Dashboard
+- Smart Recommendations
 
-### Tech
+### Stack
+`Next.js` `Node.js` `MongoDB` `OpenAI`
 
-`Next.js` `Node.js` `OpenAI` `MongoDB`
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
----
-
-## 📄 DocSign Universe
-
-> Professional AI-powered document signing platform
-
-### Features
-
-- PDF Viewing & Annotation
-- Draw / Upload / Type Signatures
-- Drag & Resize Components
-- Secure Signing Workflow
-- Responsive Modern UI
-
-### Tech
-
-`React` `TailwindCSS` `Node.js` `MongoDB`
+</div>
 
 ---
 
-# 🧩 AI Capabilities
+# ⚙️ AI CAPABILITIES
 
 <div align="center">
 
-| AI Area | Experience |
+| Domain | Experience |
 |---|---|
-| LLM Integrations | ✅ |
-| AI Chat Systems | ✅ |
-| AI Automation | ✅ |
-| Prompt Engineering | ✅ |
-| AI UI/UX | ✅ |
-| AI Agents | ✅ |
-| Vector Search | ✅ |
-| AI APIs | ✅ |
-| ML Model Integration | ✅ |
+| LLM Applications | ⚡ Advanced |
+| AI Agents | ⚡ Advanced |
+| Full Stack Systems | ⚡ Advanced |
+| Prompt Engineering | ⚡ Advanced |
+| AI Automation | ⚡ Advanced |
+| Modern UI/UX | ⚡ Advanced |
+| API Integrations | ⚡ Advanced |
+| Scalable Architectures | ⚡ Advanced |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj5604&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj5604&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=7C3AED&text_color=ffffff" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj5604&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj5604&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj5604&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj5604&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
-[![Dheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj5604&theme=tokyo-night)](https://github.com/Dheeraj5604)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj5604&theme=tokyonight" width="100%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dheeraj5604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dheeraj5604&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github.com/Dheeraj5604/Dheeraj5604/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/Dheeraj5604/Dheeraj5604/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 💻 LeetCode Stats
+# 💻 LEETCODE STATS
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/DHEERAJ5604?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/DHEERAJ5604?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
 ---
 
-# ⚙️ Development Philosophy
+# 🧬 DEVELOPER DNA
 
 ```javascript
 const dheeraj = {
+  title: "AI Engineer",
   code: ["JavaScript", "TypeScript", "Python", "C++"],
-  askMeAbout: [
-    "AI",
-    "Full Stack Development",
-    "LLMs",
-    "Automation",
-    "Modern UI",
-    "System Design",
-  ],
-  architecture: [
-    "scalable systems",
-    "microservices",
-    "AI powered platforms",
-  ],
-  currentGoal: "Building futuristic AI products",
+  technologies: {
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    ai: [
+      "OpenAI",
+      "LLMs",
+      "AI Agents",
+      "Automation",
+      "Prompt Engineering",
+    ],
+  },
+
+  currentMission:
+    "Building futuristic AI systems with immersive UI/UX",
 };
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 TARGETS
 
-- 🚀 Build scalable AI SaaS products
-- 🧠 Master AI Agents & LLM Workflows
-- 💻 Crack top product-based companies
-- 📚 Strengthen DSA & System Design
-- 🌍 Contribute to Open Source
-- ⚡ Build impactful futuristic applications
+<div align="center">
+
+| Goal | Status |
+|---|---|
+| Build AI SaaS Products | 🚀 |
+| Master AI Agents | ⚡ |
+| Crack Top Product Companies | 💻 |
+| Contribute to Open Source | 🌍 |
+| Build Futuristic Interfaces | 🤖 |
+| Become Elite AI Engineer | 🔥 |
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ Building The Future With AI + Code
+## ⚡ BUILDING THE FUTURE WITH AI + CODE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=180&section=footer" width="100%" />
 
 </div>
+````
