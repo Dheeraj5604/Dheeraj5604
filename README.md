@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Developer;Full+Stack+Engineer;React+%2B+Node.js+Developer;Building+AI+Powered+Applications;OpenAI+%7C+LLMs+%7C+Automation;Modern+UI%2FUX+Creator;DSA+%26+System+Design+Learner)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Dheeraj5604&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -211,9 +211,9 @@ currently_building:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj5604&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj5604&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -223,7 +223,7 @@ currently_building:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj5604&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -233,7 +233,7 @@ currently_building:
 
 <div align="center">
 
-[![Dheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Dheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj5604&theme=tokyo-night)](https://github.com/Dheeraj5604)
 
 </div>
 
@@ -243,7 +243,7 @@ currently_building:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dheeraj5604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -253,7 +253,7 @@ currently_building:
 
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/Dheeraj5604/Dheeraj5604/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
