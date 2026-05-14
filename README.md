@@ -1,6 +1,4 @@
-# 🚀 Advanced 3D Interactive GitHub README
-
-````md
+# 🚀 Advanced 3D Interactive GitHub README.md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=320&section=header&text=Dheeraj%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Building%20Futuristic%20Systems&descAlignY=58&descSize=20" width="100%" />
